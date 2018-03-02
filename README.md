@@ -18,6 +18,6 @@ You can download the workshop assets by pressing the "Download Zip" at the top-r
 
 ## You're done!
 
-You are all set for the workshop on March 8th at 7PM. I'm looking forward to seeing you there! I'll also spend a few minutes during the workshop going over these steps, so feel free to skip any steps that are confusing. If you run into any issues/concerns, shoot an email to `vnair611@gmail.com`. I'd be more than happy to help debug your environment issues. You can skim through the workshop slides as well here: `https://goo.gl/P9zrCS`
+You are all set for the workshop on March 8th at 8 PM. I'm looking forward to seeing you there! I'll also spend a few minutes during the workshop going over these steps, so feel free to skip any steps that are confusing. If you run into any issues/concerns, shoot an email to `vnair611@gmail.com`. I'd be more than happy to help debug your environment issues. You can skim through the workshop slides as well here: `https://goo.gl/P9zrCS`
 
 
